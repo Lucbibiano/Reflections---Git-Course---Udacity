@@ -1,0 +1,63 @@
+#Compare
+Para comparar diferentes arquivos utilizando o Windows, utilize o comando:
+FC arquivo.html arquivo2.html
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Answer: You can compare the archives and finds the problem.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Answer: You can track bugs and errors, this make easy to find bugs.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Answer: Having versions automatically saved make the proccess easier to work. You don't have to worried
+about saving files all the time. But you can automatically save problems too.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Answer: Depends on the purpose of the work. Saving multiple files can make easier to test and work.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Answer: Yes, its possible to view the history of files like that.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Answer: You have old versions that works fine.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Answer: Creating diff versions.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+Answer: É possível analisar diferentes versões de códigos.
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+Answer: Podemos identificar as mudanças pelo git log e em seguida, pelo ID dos commits, identificar as mudanças nas atualizações.
+
+Mais recente:
+3884eab839af1e82c44267484cf2945a766081f3
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+É possível voltar versões temporariamente utilizando o comando git checkout, com isso, podemos comparar os commits.
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+ Recent
+fa4c6bade4970c282b3870ad16f1bde8164663a9
+
+547f4171a82ec6429d002c1acef357aec41d3f17
+
+
+
